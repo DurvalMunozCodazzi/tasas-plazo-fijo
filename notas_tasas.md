@@ -33,3 +33,40 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 22,25% — Crédito Regional Compañía Financiera S.A. / Banco Meridian (empate).
 
 **Comparación con lectura anterior:** no hay lectura previa guardada; esta es la primera entrada del registro.
+
+---
+
+## Lectura: 2026-08-19 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar y a sitios de noticias bloqueado en este entorno) — medios que citan el comparador oficial BCRA, datos al 19/08/2026.
+
+| Banco | TNA |
+|---|---|
+| Crédito Regional Compañía Financiera S.A. (clientes) | 23% |
+| Crédito Regional Compañía Financiera S.A. (no clientes) | 22,5% |
+| Banco Meridian | 22,25% |
+| Banco BICA S.A. | 22% |
+| Banco CMF S.A. | 22% |
+| Reba Compañía Financiera S.A. | 22%* |
+| Banco Voii S.A. | 21,75%* |
+| Banco Mariva | 21,5% |
+| Banco del Sol | 21% |
+| Banco Provincia (no clientes) | 21% |
+| Banco de Córdoba | 20,75% |
+| Banco Dino | 20% |
+| Banco Provincia (clientes) | 19,5% |
+| Banco Nación | 19% |
+| Banco Macro | 18,5% |
+| BBVA | 18,5% |
+| ICBC | 17,7%* |
+| Banco Galicia | 17,5% |
+| Banco Credicoop | 17,5%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16% |
+| Banco Patagonia | 16%* |
+
+\* No confirmado en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-08-18).
+
+**TNA máxima del día:** 23% — Crédito Regional Compañía Financiera S.A. (tasa para clientes).
+
+**Comparación con lectura anterior (2026-08-18, máx. 22,25%):** ⬆️ INCREMENTO. La TNA máxima subió de 22,25% a 23%, con Crédito Regional Compañía Financiera S.A. al frente del ranking.
