@@ -287,3 +287,48 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **Comparación con lectura anterior (2026-08-24, máx. 22,25%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
 
 > Salvedad: se repite el mismo patrón de lecturas anteriores (ver 2026-08-19, 2026-08-21 y 2026-08-24): varias búsquedas de hoy vuelven a citar un 23% TNA para Crédito Regional Compañía Financiera S.A. (tasa "clientes"), pero acceso directo a bcra.gob.ar y a medios con desglose banco por banco (mdzol.com, iproup.com) está bloqueado por el proxy de egress, y no se pudo verificar el dato de forma independiente ni contrastar con otra fuente que lo confirme. Se mantiene el criterio conservador ya aplicado en lecturas anteriores: no se confirma el 23% y se registra el máximo en 22,25%.
+
+---
+
+## Lectura: 2026-08-26 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar y a los sitios de medios/comparadores bloqueado por el proxy de egress de este entorno) — múltiples medios y comparadores (mdzol.com, indicadores.ar, comparatasas.ar, entre otros) que citan el comparador oficial BCRA, datos del 25-26 de agosto de 2026.
+
+| Banco | TNA |
+|---|---|
+| Crédito Regional Compañía Financiera S.A. (clientes) | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco de Comercio | 23,5%* |
+| Banco Meridian | 22,25% |
+| Banco BICA S.A. | 22% |
+| Banco CMF S.A. | 22% |
+| Banco Columbia | 22%* |
+| Banco Voii S.A. | 21,75%* |
+| Banco Mariva | 21,5%* |
+| Bibank | 21,5%* |
+| Banco Provincia (no clientes) | 21% |
+| Banco del Sol | 21%* |
+| Banco de Córdoba | 20,75%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| Banco Dino | 20%* |
+| Banco Provincia (clientes) | 19,5% |
+| Banco Nación | 19% |
+| Banco del Chubut | 19%* |
+| Banco Macro | 18,5% |
+| Banco de Formosa | 18,5%* |
+| BBVA | 18,25% |
+| Banco Comafi | 18%* |
+| ICBC | 17,7%* |
+| Banco Galicia | 17,5% |
+| Banco Credicoop | 17,5%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-08-25). El dato de Banco de Comercio (23,5%) proviene de una única búsqueda y no se pudo contrastar con una segunda fuente independiente hoy; se incluye por completitud pero no se usa como base del máximo del día dado que Crédito Regional y Reba fueron confirmados por múltiples búsquedas.
+
+**TNA máxima del día (confirmada por múltiples fuentes):** 23% — Crédito Regional Compañía Financiera S.A. (clientes) / Reba Compañía Financiera S.A. (empate).
+
+**Comparación con lectura anterior (2026-08-25, máx. 22,25%):** 🔺 INCREMENTO. La TNA máxima subió de 22,25% a 23%. A diferencia de lecturas anteriores (19/08 al 25/08), donde el rumor de un 23% para Crédito Regional/Reba no pudo confirmarse por bloqueo de acceso a fuentes con desglose banco por banco, hoy el dato de 23% para ambas entidades fue corroborado de forma consistente en múltiples búsquedas independientes (incluyendo un comparador dedicado, indicadores.ar, y coincidencia entre dos búsquedas separadas para Crédito Regional). Se levanta por lo tanto el criterio conservador aplicado en lecturas previas y se registra el nuevo máximo en 23%.
+
+> Nota: una búsqueda aislada citó a Reba en 24% TNA a 30 días (comparatasas.ar), pero esa cifra no se repitió en las demás búsquedas (que consistentemente citan 23%), por lo que se adopta 23% como valor más corroborado.
