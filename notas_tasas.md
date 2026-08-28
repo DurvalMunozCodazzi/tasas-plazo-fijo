@@ -375,3 +375,46 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día (confirmada por múltiples fuentes):** 23% — Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (empate). Confirmado explícitamente por indicadores.ar ("Mejor TNA: 23.0% — REBA COMPAÑIA FINANCIERA S.A.") y por múltiples búsquedas independientes que citan el mismo valor para ambas entidades.
 
 **Comparación con lectura anterior (2026-08-26, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-08-28 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar bloqueado por el proxy de egress de este entorno) — múltiples medios y comparadores (indicadores.ar, mdzol.com, infobae.com, entre otros), datos del 26-28 de agosto de 2026.
+
+| Banco | TNA |
+|---|---|
+| Crédito Regional Compañía Financiera S.A. (clientes) | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Meridian | 22,25% |
+| Banco BICA S.A. | 22%* |
+| Banco CMF S.A. | 22%* |
+| Banco Columbia | 22%* |
+| Banco Voii S.A. | 21,75%* |
+| Banco Mariva | 21,5%* |
+| Bibank | 21,5%* |
+| Banco Provincia (no clientes) | 21%* |
+| Banco del Sol | 21%* |
+| Banco de Córdoba | 20,75%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| Banco Dino | 20%* |
+| Banco Provincia (clientes) | 19,5% |
+| Banco Nación | 19% |
+| Banco del Chubut | 19%* |
+| Banco de Comercio | 19% |
+| Banco Macro | 18,5% |
+| Banco de Formosa | 18,5%* |
+| BBVA | 18,25% |
+| Banco Comafi | 18%* |
+| ICBC | 17,7%* |
+| Banco Galicia | 17,5% |
+| Banco Credicoop | 17,5%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-08-27). Corrección: la lectura del 27/08 incluía "Banco de Comercio | 23,5%*" como dato no confirmado; búsquedas de hoy (Infobae, mdzol) confirman de forma consistente que Banco de Comercio ofrece 19% TNA, por lo que se corrige ese valor y se elimina la incertidumbre sobre esa entidad.
+
+**TNA máxima del día (confirmada por múltiples fuentes):** 23% — Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (empate). Confirmado por indicadores.ar ("Mejor TNA: 23.0% — REBA COMPAÑIA FINANCIERA S.A.") y por búsquedas independientes adicionales que citan el mismo valor para ambas entidades.
+
+**Comparación con lectura anterior (2026-08-27, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
