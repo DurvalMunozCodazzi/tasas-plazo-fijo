@@ -418,3 +418,48 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día (confirmada por múltiples fuentes):** 23% — Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (empate). Confirmado por indicadores.ar ("Mejor TNA: 23.0% — REBA COMPAÑIA FINANCIERA S.A.") y por búsquedas independientes adicionales que citan el mismo valor para ambas entidades.
 
 **Comparación con lectura anterior (2026-08-27, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-08-29 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar bloqueado por el proxy de egress de este entorno) — múltiples medios y comparadores (La Nación, mdzol.com, Diario Mendoza, iproup, indicadores.ar, servidos.ar), datos del 24 al 29 de agosto de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 24% |
+| Crédito Regional Compañía Financiera S.A. (clientes) | 23% |
+| Banco Meridian | 22,25% |
+| Banco BICA S.A. | 22%* |
+| Banco Columbia | 22%* |
+| Banco Voii S.A. | 21,75%* |
+| Banco Mariva | 21,5%* |
+| Bibank | 21,5%* |
+| Banco Provincia (no clientes) | 21%* |
+| Banco del Sol | 21%* |
+| Banco de Córdoba | 20,75%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| Banco Dino | 20%* |
+| Banco Provincia (clientes) | 19,5% |
+| Banco Nación | 19% |
+| Banco del Chubut | 19%* |
+| Banco de Comercio | 19% |
+| Banco Macro | 18,5% |
+| Banco de Formosa | 18,5%* |
+| BBVA | 18,25% |
+| Banco Comafi | 18%* |
+| ICBC | 17,7%* |
+| Banco Galicia | 17,5% |
+| Banco Credicoop | 17,5%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-08-28).
+
+**Novedad:** varias fuentes fechadas de forma específica y consistente entre el 24 y el 27 de agosto (La Nación, "Plazo fijo... jueves 27 de agosto"; mdzol, "Subieron las tasas de plazo fijo... este 27 de agosto"; mdzol, "las tasas del 24 de agosto") señalan que Banco CMF S.A. y Reba Compañía Financiera S.A. subieron su TNA a 24%, superando el 23% que era el máximo hasta la lectura del 2026-08-28. El dato aparece repetido en múltiples artículos con fecha propia (no genérico), por lo que se toma como confirmado, aunque con la salvedad de que no pudo verificarse contra la fuente primaria del BCRA (acceso bloqueado en este entorno) ni contra el sitio del banco.
+
+**TNA máxima del día:** 24% — Banco CMF S.A. / Reba Compañía Financiera S.A. (empate).
+
+**Comparación con lectura anterior (2026-08-28, máx. 23%):** ⬆️ INCREMENTO. La TNA máxima subió de 23% a 24%. Mejor tasa hoy: Banco CMF S.A. y Reba Compañía Financiera S.A., ambos al 24% TNA.
