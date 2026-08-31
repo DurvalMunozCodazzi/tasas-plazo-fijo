@@ -506,3 +506,46 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A. (confirmada por múltiples fuentes), con Bibank, Crédito Regional Compañía Financiera S.A. y Banco CMF S.A. citados también en 24% en distintas fuentes de la misma semana.
 
 **Comparación con lectura anterior (2026-08-29, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-08-31 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, mdzol.com y servidos.ar bloqueado por el proxy de egress de este entorno) — múltiples medios y comparadores (iprofesional.com, indicadores.ar, entre otros) que citan el comparador oficial BCRA, datos de la última semana de agosto de 2026.
+
+| Banco | TNA |
+|---|---|
+| Banco CMF S.A. | 24% |
+| Reba Compañía Financiera S.A. | 24% |
+| Crédito Regional Compañía Financiera S.A. (clientes) | 23,5% |
+| Banco de Comercio | 23,5%* |
+| Banco BICA S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Banco Meridian | 22,5% |
+| Banco Columbia | 22%* |
+| Banco Voii S.A. | 21,75%* |
+| Bibank | 21,5% |
+| Banco Mariva | 21,5%* |
+| Banco Provincia (no clientes) | 21%* |
+| Banco de Córdoba | 20,75%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| Banco Dino | 20%* |
+| Banco Provincia (clientes) | 19,5% |
+| Banco Nación | 19% |
+| Banco del Chubut | 19%* |
+| Banco Macro | 18,5% |
+| Banco de Formosa | 18,5%* |
+| BBVA | 18,25% |
+| Banco Comafi | 18%* |
+| ICBC | 17,7% |
+| Banco Galicia | 17,5% |
+| Banco Credicoop | 17,5% |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso bloqueado a los sitios con desglose banco por banco); valor arrastrado de la lectura anterior (2026-08-30). Búsquedas de hoy confirman de forma consistente a Banco CMF S.A. y Reba Compañía Financiera S.A. en el liderazgo con 24% TNA, a Crédito Regional en 23,5% (leve baja respecto al 24% no confirmado de ayer), a Banco Meridian en 22,5% (leve suba respecto al 22,25% previo) y a Bibank en 21,5% (corrección a la baja respecto al 24% no confirmado de la lectura anterior, que parece haber sido un error de atribución).
+
+**TNA máxima del día:** 24% — Banco CMF S.A. / Reba Compañía Financiera S.A. (empate), confirmado por múltiples fuentes.
+
+**Comparación con lectura anterior (2026-08-30, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
