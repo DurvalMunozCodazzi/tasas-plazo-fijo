@@ -592,3 +592,46 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Banco CMF S.A. / Reba Compañía Financiera S.A. (empate), consistente con la lectura anterior; no se pudo confirmar de forma independiente ningún valor superior.
 
 **Comparación con lectura anterior (2026-08-31, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-02 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, indicadores.ar y rionegro.com.ar bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA y notas de prensa (Diario Río Negro, BAE Negocios, El Economista, Indicadores AR), fechadas 2 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5% |
+| Crédito Regional Compañía Financiera S.A. (clientes) | 23,5%* |
+| Banco de Comercio | 23,5%* |
+| Banco BICA S.A. | 23% |
+| Banco del Sol | 23%* |
+| Banco Meridian | 22,5%* |
+| Banco Voii S.A. | 22,75% |
+| Banco Columbia | 22%* |
+| Bibank | 21,5%* |
+| Banco Mariva | 21,5%* |
+| Banco Provincia (no clientes) | 21%* |
+| Banco de Córdoba | 20,75%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| Banco Nación | 20% |
+| Banco Dino | 20%* |
+| Banco Provincia (clientes) | 19,5%* |
+| Banco Macro | 19,5% |
+| Banco del Chubut | 19%* |
+| Banco de Formosa | 18,5%* |
+| BBVA | 18,25%* |
+| Banco Comafi | 18%* |
+| ICBC | 17,7%* |
+| Banco Galicia | 17,5%* |
+| Banco Credicoop | 17,5%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los sitios con desglose banco por banco bloqueado por el proxy de egress); valor arrastrado de la lectura anterior (2026-09-01). Las búsquedas de hoy confirman a Reba Compañía Financiera S.A. como líder en 24% TNA, con Banco CMF S.A. en 23,5% (baja respecto al 24% de ayer, ya no empatado en el liderazgo), Banco BICA S.A. en 23%, Banco Voii S.A. en 22,75% (suba respecto al 21,75% previo), Banco Nación en 20% (suba respecto al 19% previo) y Banco Macro en 19,5% (suba respecto al 18,5% previo). Un resumen de búsqueda mencionó de forma aislada un 28% TNA para Banco BICA, Banco CMF y Banco Voii, pero ese dato se contradice con los valores confirmados en la misma búsqueda (23%, 23,5% y 22,75% respectivamente para esos mismos bancos) y con el título del comparador Indicadores AR que ubica la TNA máxima en 24% (Banco CMF), por lo que se descarta como no confirmado / posible error del resumen automático.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A. (confirmada por múltiples fuentes; ya no en empate con Banco CMF S.A., que hoy figura en 23,5%).
+
+**Comparación con lectura anterior (2026-09-01, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
