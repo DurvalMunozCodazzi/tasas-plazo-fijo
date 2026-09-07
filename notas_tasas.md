@@ -809,3 +809,37 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A. / Banco CMF S.A. (empate), consistente con la lectura anterior.
 
 **Comparación con lectura anterior (2026-09-05, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-07 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, indicadores.ar, ambito.com, equitylens.com.ar y rionegro.com.ar bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA y notas de prensa (Ámbito, Diario Río Negro, Diario Mendoza), fechadas 2-7 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5%* |
+| Crédito Regional Compañía Financiera S.A. | 23,5%* |
+| Banco BICA S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Banco Mariva | 23%* |
+| Banco Voii S.A. | 23%* |
+| Banco Nación | 20%* |
+| Banco Provincia (clientes) | 19,5%* |
+| BBVA | 19,5%* |
+| Banco Macro | 19,5%* |
+| Banco Galicia | 18,5%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| ICBC | 18,1%* |
+| Banco Santander | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los sitios con desglose banco por banco bloqueado por el proxy de egress); valor arrastrado de la lectura anterior (2026-09-06) o tomado de resúmenes de búsqueda que citan el mismo período ("primera semana de septiembre 2026"). Las búsquedas de hoy confirman de forma consistente a Reba Compañía Financiera S.A. como líder en 24% TNA, con Banco CMF S.A. y Crédito Regional en 23,5%, y un grupo de Banco BICA, Banco del Sol, Banco Mariva y Banco Voii en 23% — sin evidencia de ninguna suba adicional respecto a la lectura anterior.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
+
+**Comparación con lectura anterior (2026-09-06, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
