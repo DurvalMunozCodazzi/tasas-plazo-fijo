@@ -877,3 +877,37 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A. y Banco CMF S.A. (empate).
 
 **Comparación con lectura anterior (2026-09-07, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior (Banco CMF alcanzó el mismo nivel que Reba, pero el máximo del mercado no subió). No se emite aviso.
+
+---
+
+## Lectura: 2026-09-09 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, servidos.ar, tuplazofijo.com.ar y rionegro.com.ar bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA e indicadores.ar, y notas de prensa (Ámbito, Río Negro, MDZ, Diario Mendoza), fechadas 2-9 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 24% |
+| Crédito Regional Compañía Financiera S.A. | 23,5%* |
+| Banco BICA S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Banco Mariva | 23%* |
+| Banco Voii S.A. | 23%* |
+| Banco Nación | 20%* |
+| Banco Provincia (clientes) | 19,5%* |
+| BBVA | 19,5%* |
+| Banco Macro | 19,5%* |
+| Banco Galicia | 18,5%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| ICBC | 18,1%* |
+| Banco Santander | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los sitios con desglose banco por banco bloqueado por el proxy de egress); valor arrastrado de la lectura anterior (2026-09-08) o tomado de resúmenes de búsqueda que citan el mismo período. Las búsquedas de hoy confirman a Reba Compañía Financiera S.A. y Banco CMF S.A. empatados en el liderazgo con 24% TNA; indicadores.ar (vía resumen de búsqueda) cita "Mejor TNA: 24,0% (Banco CMF S.A.)" como la tasa más alta relevada hoy. Sin evidencia de ninguna entidad por encima de 24%.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A. y Banco CMF S.A. (empate).
+
+**Comparación con lectura anterior (2026-09-08, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
