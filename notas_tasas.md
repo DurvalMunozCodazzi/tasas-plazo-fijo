@@ -911,3 +911,37 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A. y Banco CMF S.A. (empate).
 
 **Comparación con lectura anterior (2026-09-08, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-10 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, canal26.com, rionegro.com.ar, ar.headtopics.com y derechadiario.com.ar bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA y notas de prensa (Ámbito, La Nación, El Cronista, Diario Mendoza, MDZ), fechadas 8-10 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5%* |
+| Crédito Regional Compañía Financiera S.A. | 23,5%* |
+| Banco BICA S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Banco Mariva | 23%* |
+| Banco Voii S.A. | 23%* |
+| Banco Nación | 20%* |
+| Banco Provincia (clientes) | 19,5%* |
+| BBVA | 19,5%* |
+| Banco Macro | 19,5%* |
+| Banco Galicia | 18,5%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| ICBC | 18,1%* |
+| Banco Santander | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los sitios con desglose banco por banco bloqueado por el proxy de egress); valor arrastrado de la lectura anterior o tomado de resúmenes de búsqueda que citan el mismo período. Las búsquedas de hoy confirman de forma consistente a Reba Compañía Financiera S.A. como líder en 24% TNA (fuentes fechadas 9-10/9: La Nación, Ámbito, El Cronista); Banco CMF aparece citado en 23,5% en las notas más recientes (9-10/9), tras haber sido reportado en 24% el 8-9/9 — posible fluctuación menor o discrepancia entre fuentes, sin impacto en el máximo del mercado. Sin evidencia de ninguna entidad por encima de 24%; los bancos tradicionales (Nación, Provincia, BBVA, Macro) se mantienen sin cambios en 19,5-20%.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
+
+**Comparación con lectura anterior (2026-09-09, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
