@@ -1016,3 +1016,39 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
 
 **Comparación con lectura anterior (2026-09-11, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-13 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, equitylens.com.ar, servidos.ar, ambito.com y lapostadiario.com bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA, y notas de prensa (Ámbito, Canal26, Diario Río Negro, Diario Mendoza, Diario Mendoza, Noticias Argentinas), fechadas 2-13 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5%* (un titular de Ámbito de hoy sugiere 24%, dato ambiguo) |
+| Crédito Regional Compañía Financiera S.A. | 23,5%* |
+| Banco BICA S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Banco Mariva | 22,5%* |
+| Banco Voii S.A. | 22,75%* |
+| Banco Meridian | 22,5%* |
+| Banco Nación | 19,5%* |
+| Banco Provincia (clientes) | 19,5%* |
+| BBVA | 19,5%* |
+| Banco Macro | 19,5%* |
+| Banco Comafi | 19%* |
+| Banco Galicia | 18,5%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 20,5%* |
+| ICBC | 18,1%* |
+| Banco Ciudad | 18%* |
+| Banco Santander | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los comparadores con desglose banco por banco bloqueado por el proxy de egress de este entorno); valor arrastrado de la lectura anterior (2026-09-12) o tomado de resúmenes de búsqueda del período. Las búsquedas de hoy confirman de forma consistente a Reba Compañía Financiera S.A. como líder en 24% TNA; un titular de Ámbito de hoy atribuye la "mejor tasa" a Banco CMF S.A. con 24%, mientras otro resumen del mismo día lo ubica en 23,5% — dato ambiguo entre fuentes, sin impacto en el máximo del mercado ya que Reba ya estaba en 24%. Se observa que Banco Nación bajó de 20% a 19,5% durante el mes (variabilidad reportada por búsquedas de hoy), quedando ahora igualado con Banco Macro y BBVA. Sin evidencia de ninguna entidad por encima de 24%.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A. (posiblemente empatada con Banco CMF S.A., dato ambiguo), sin cambios respecto a la lectura anterior.
+
+**Comparación con lectura anterior (2026-09-12, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
