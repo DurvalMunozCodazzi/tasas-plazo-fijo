@@ -1162,3 +1162,40 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
 
 **Comparación con lectura anterior (2026-09-15, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-17 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, y a comparatasas.ar, iproup.com, servidos.ar, canal26.com, rionegro.com.ar, urgente24.com, mdzol.com, dolarito.ar y lanacion.com.ar bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA, notas de la "tercera semana de septiembre 2026" y del miércoles 16/09 (El Destape, La Nación, Diario Río Negro, Diario Mendoza, Ámbito, Infobae, La Derecha Diario), fechadas 14-17 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5% |
+| Banco Meridian | 23,25% |
+| Banco BICA S.A. | 23% |
+| Banco del Sol | 23%* |
+| Banco Mariva | 23%* |
+| Crédito Regional Compañía Financiera S.A. | 23%* |
+| Banco Voii S.A. | 22,75%* |
+| Banco Provincia (no clientes) | 22% |
+| Banco Provincia (clientes) | 21% |
+| Banco Nación | 18,75% |
+| BBVA | 19,5% |
+| Banco Macro | 19,5% |
+| Banco Credicoop | 18,5% |
+| Banco Galicia | 17,75% |
+| Banco Santander | 16,5% |
+| Banco Patagonia | 16% |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1%* |
+| Banco Ciudad | 17%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los comparadores con desglose banco por banco bloqueado por el proxy de egress de este entorno); valor arrastrado de la lectura anterior (2026-09-16). Las búsquedas de hoy confirman de forma consistente a Reba Compañía Financiera S.A. como líder en 24% TNA, seguido por Banco CMF en 23,5% y Banco Meridian en 23,25%. Los bancos tradicionales se mantienen prácticamente sin cambios: Banco Provincia 21%/22%, Banco Nación 18,75%, BBVA y Macro 19,5%, Credicoop 18,5%, Galicia 17,75%, Santander 16,5%, Patagonia 16%. Sin evidencia de ninguna entidad por encima de 24%.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
+
+**Comparación con lectura anterior (2026-09-16, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
