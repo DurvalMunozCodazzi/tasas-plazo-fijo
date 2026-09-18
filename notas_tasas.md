@@ -1199,3 +1199,38 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
 
 **Comparación con lectura anterior (2026-09-16, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+## Lectura: 2026-09-18 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, servidos.ar, sinelefantesblancos.com.ar, lanacion.com.ar e iproup.com bloqueado por el proxy de egress de este entorno) — resúmenes de búsqueda que citan el comparador oficial BCRA, nota de La Nación de este jueves 18 de septiembre y otras notas de El Destape, Diario Mendoza, Urgente24, MDZ Online, ON24 e Infobae, fechadas 14-18 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5% |
+| Crédito Regional Compañía Financiera S.A. | 23,5% |
+| Banco Meridian | 23,25% |
+| Banco Mariva | 23% |
+| Banco del Sol | 23% |
+| Banco BICA S.A. | 23% |
+| Banco Voii S.A. | 22,75%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Provincia (clientes) | 21% |
+| Banco Nación | 19,5% |
+| Banco Macro | 19,5% |
+| BBVA | 19,5% |
+| Banco Comafi | 19%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1%* |
+| Banco Galicia | 17,75%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16,5%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los comparadores con desglose banco por banco bloqueado por el proxy de egress de este entorno); valor arrastrado de la lectura anterior (2026-09-17). Las búsquedas de hoy confirman de forma consistente a Reba Compañía Financiera S.A. como líder en 24% TNA, seguido por Banco CMF y Crédito Regional en 23,5% y Banco Meridian en 23,25%. Entre los bancos tradicionales, Banco Provincia encabeza con 21% (clientes), y Banco Nación, Banco Macro y BBVA pagan 19,5%. Sin evidencia de ninguna entidad por encima de 24%.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
+
+**Comparación con lectura anterior (2026-09-17, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
