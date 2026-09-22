@@ -1343,3 +1343,40 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
 
 **Comparación con lectura anterior (2026-09-20, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-22 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar bloqueado por el proxy de egress de este entorno, confirmado nuevamente hoy con WebFetch; también bloqueados hoy los comparadores/notas con desglose banco por banco: eldestapeweb.com, urgente24.com, cronista.com, servidos.ar, iproup.com, dolarito.ar) — resúmenes de búsqueda que citan el comparador oficial BCRA y notas de Ámbito, El Cronista ("Cambian las tasas de plazo fijo: qué banco paga más hoy lunes 22 de septiembre") y El Destape ("cuarta semana de septiembre 2026"), fechadas explícitamente el 22 de septiembre de 2026.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5% |
+| Crédito Regional Compañía Financiera S.A. | 23,5% |
+| Banco Meridian | 23,25%* |
+| Banco Mariva | 23% |
+| Banco del Sol | 23% |
+| Banco BICA S.A. | 23% |
+| Banco Voii S.A. | 22,75%* |
+| Banco Provincia (no clientes) | 22% |
+| Banco Provincia (clientes) | 21% |
+| Banco Nación | 20% |
+| Banco Macro | 19,5%* |
+| BBVA | 19,5% |
+| Banco Comafi | 19%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1%* |
+| Banco Galicia | 18,5% |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16% |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente banco por banco en las búsquedas de hoy (acceso directo a bcra.gob.ar y a los comparadores con desglose banco por banco bloqueado por el proxy de egress de este entorno); valor arrastrado de la lectura anterior (2026-09-21) o, en el caso de Banco Meridian, dato conflictivo entre fuentes (una nota de hoy menciona 22,5% clientes / 23,5% no clientes; se mantiene el valor previo de forma conservadora). Las búsquedas de hoy confirman de forma explícita y consistente, con fuentes fechadas 22/09/2026, que Reba Compañía Financiera S.A. sigue liderando con 24% TNA, seguido por Banco CMF y Crédito Regional en 23,5%, y Banco Mariva, Banco del Sol y Banco BICA en 23%. Una búsqueda aislada sugirió que Reba y CMF habrían bajado a 23%, pero una búsqueda de verificación adicional (cita textual: "Reba lidera con 24%, seguido por CMF y Crédito Regional con 23,5%") reconfirmó el 24% de Reba, por lo que se descarta ese dato como ruido. Sin evidencia de ninguna entidad por encima de 24%.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
+
+**Comparación con lectura anterior (2026-09-21, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
