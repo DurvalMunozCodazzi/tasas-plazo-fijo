@@ -1417,3 +1417,40 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A., sin cambios respecto a la lectura anterior.
 
 **Comparación con lectura anterior (2026-09-22, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior. No se emite aviso.
+
+---
+
+## Lectura: 2026-09-24 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar y a bancos/comparadores individuales —reba.com.ar, ambito.com, mdzol.com, eldestapeweb.com, ar.headtopics.com— bloqueados nuevamente hoy por el proxy de egress de este entorno, confirmado con WebFetch) — resúmenes de búsqueda que citan notas fechadas explícitamente en la "cuarta semana de septiembre 2026" (El Destape, MDZ Online, Diario Mendoza) y notas de LA NACION del 22 y 23 de septiembre de 2026 que citan directamente el comparador del BCRA.
+
+| Banco | TNA |
+|---|---|
+| Crédito Regional Compañía Financiera S.A. | 23,5% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco BICA S.A. | 23% |
+| Banco del Sol | 23% |
+| Banco Mariva | 23%* |
+| Banco Meridian | 23,25%* |
+| Banco Voii S.A. | 22,75%* |
+| Banco Provincia (no clientes) | 22% |
+| Banco Provincia (clientes) | 21% |
+| Banco Macro | 19,5% |
+| BBVA | 19% |
+| Banco Nación | 18,75% |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1% |
+| Banco Comafi | 19%* |
+| Banco Galicia | 17,25% |
+| Banco Santander | 16,5% |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente banco por banco en las búsquedas de hoy; valor arrastrado de la lectura anterior. Las notas fechadas en la "cuarta semana de septiembre 2026" (MDZ Online, Diario Mendoza) señalan una baja generalizada de tasas esta semana, ubicando el techo del mercado en 23% TNA (Banco BICA, Banco CMF, Banco del Sol, Crédito Regional y Reba empatados), mientras que El Destape, en su nota específica de la cuarta semana, ubica a Crédito Regional liderando en solitario con 23,5% y a Reba en 23%. Además, LA NACION del 22 y 23 de septiembre (citando directamente al comparador del BCRA) ya registraba a Reba y Crédito Regional en 23%, no en 24% como en la lectura del 21/09 y anteriores. Es decir, múltiples fuentes independientes y con fecha explícita de esta semana coinciden en que el máximo de mercado bajó de 24% a un rango de 23%-23,5%, sin ninguna entidad reportada por encima de ese rango. Se toma el valor más alto entre las fuentes en conflicto (23,5%, Crédito Regional) como máximo del día de forma conservadora, pero en cualquier caso es menor al máximo de la lectura anterior (24%).
+
+**TNA máxima del día:** 23,5% — Crédito Regional Compañía Financiera S.A.
+
+**Comparación con lectura anterior (2026-09-23, máx. 24%):** ⬇️ BAJÓ. La TNA máxima del día es menor a la de la lectura anterior (23,5% vs. 24%). No hubo incremento, por lo que no se emite aviso.
