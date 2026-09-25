@@ -1454,3 +1454,41 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23,5% — Crédito Regional Compañía Financiera S.A.
 
 **Comparación con lectura anterior (2026-09-23, máx. 24%):** ⬇️ BAJÓ. La TNA máxima del día es menor a la de la lectura anterior (23,5% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+
+---
+
+## Lectura: 2026-09-25 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar y a sitios espejo/comparadores —indicadores.ar, dolarhoy.com, servidos.ar, ambito.com, urgente24.com— bloqueados nuevamente hoy por el proxy de egress de este entorno, confirmado con WebFetch) — múltiples resúmenes de búsqueda coinciden de forma consistente en datos "al 23 de septiembre de 2026" (repetidos en dos búsquedas independientes de hoy), sin evidencia de cambios posteriores.
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco del Sol | 23% |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Voii S.A. | 22,75% |
+| Banco Mariva | 22,5% |
+| Banco Meridian | 22,5% |
+| Banco Provincia (no clientes) | 22% |
+| Banco Provincia (clientes) | 21% |
+| Banco Macro | 19,5% |
+| BBVA | 19% |
+| Banco Comafi | 19%* |
+| Banco Nación | 18,75% |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1% |
+| Banco Ciudad | 18% |
+| Banco Galicia | 17,25% |
+| Banco Santander | 16,5% |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente banco por banco en las búsquedas de hoy; valor arrastrado de la lectura anterior. Dos búsquedas web independientes de hoy citan de forma consistente el mismo dato "al 23 de septiembre de 2026": el techo del mercado bajó de 24% a 23% TNA, con cinco entidades empatadas (Banco BICA, Banco CMF, Banco del Sol, Crédito Regional y Reba), mientras que Banco Voii, Banco Mariva y Banco Meridian se ubican levemente debajo (22,5%-22,75%). Esto confirma la tendencia bajista ya señalada en la lectura del 24/09 (donde Crédito Regional lideraba en solitario con 23,5%): hoy ese máximo bajó otro escalón, a 23%, ahora compartido por cinco entidades. Sin evidencia de ninguna entidad por encima de 23% en las fuentes de hoy.
+
+**TNA máxima del día:** 23% — empate entre Banco BICA S.A., Banco CMF S.A., Banco del Sol, Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.
+
+**Comparación con lectura anterior (2026-09-24, máx. 23,5%):** ⬇️ BAJÓ. La TNA máxima del día es menor a la de la lectura anterior (23% vs. 23,5%). No hubo incremento, por lo que no se emite aviso.
