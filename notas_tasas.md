@@ -1492,3 +1492,40 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23% — empate entre Banco BICA S.A., Banco CMF S.A., Banco del Sol, Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.
 
 **Comparación con lectura anterior (2026-09-24, máx. 23,5%):** ⬇️ BAJÓ. La TNA máxima del día es menor a la de la lectura anterior (23% vs. 23,5%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-09-26 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar y a sitios espejo/comparadores —dolarito.ar, servidos.ar, ambito.com, tuplazofijo.com.ar, lanacion.com.ar— bloqueados nuevamente hoy por el proxy de egress de este entorno, confirmado con WebFetch) — una búsqueda específica de hoy ("plazo fijo hoy tasas bancos viernes 26 septiembre 2026") devuelve de forma explícita datos fechados "hoy, viernes 26 de septiembre de 2026", coincidiendo con la lectura del 25/09.
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco del Sol | 23% |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Voii S.A. | 22,75% |
+| Banco Mariva | 22,5% |
+| Banco Meridian | 22,5% |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco Macro | 19,5%* |
+| BBVA | 19%* |
+| Banco Comafi | 19%* |
+| Banco Nación | 18,75%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1%* |
+| Banco Ciudad | 18%* |
+| Banco Galicia | 17,25%* |
+| Banco Santander | 16,5%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente banco por banco en las búsquedas de hoy; valor arrastrado de la lectura anterior. La búsqueda específica de hoy confirma directamente el grupo líder (empate en 23% entre Banco BICA, Banco CMF, Banco del Sol, Crédito Regional y Reba, con Banco Voii en 22,75% y Banco Mariva/Banco Meridian en 22,5%), sin evidencia de ninguna entidad por encima de 23% ni de cambios en el resto de la tabla respecto a la lectura del 25/09.
+
+**TNA máxima del día:** 23% — empate entre Banco BICA S.A., Banco CMF S.A., Banco del Sol, Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.
+
+**Comparación con lectura anterior (2026-09-25, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23% vs. 23%). No hubo incremento, por lo que no se emite aviso.
