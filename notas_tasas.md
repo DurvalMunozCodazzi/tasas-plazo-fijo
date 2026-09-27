@@ -1529,3 +1529,40 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23% — empate entre Banco BICA S.A., Banco CMF S.A., Banco del Sol, Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.
 
 **Comparación con lectura anterior (2026-09-25, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23% vs. 23%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-09-27 (UTC)
+
+**Fuente:** búsqueda web (acceso directo a bcra.gob.ar, El Cronista y reba.com.ar bloqueados nuevamente hoy por el proxy de egress de este entorno, confirmado con WebFetch). Es domingo, por lo que no hay relevamientos diarios nuevos del BCRA; se realizaron varias búsquedas específicas para el 27/09. Una de ellas devolvió de forma explícita el rango vigente para Argentina: "Fixed deposit rates in Argentina currently range from 16.5% to 23.0% annual nominal rate (TNA)", consistente con el techo de mercado ya observado el 25/09 y el 26/09. Otras búsquedas mencionaron cifras de 23,5%-24% para Reba/Banco CMF/Crédito Regional, pero corresponden a notas fechadas semanas atrás (p. ej. "tercera semana de septiembre"), no a datos confirmados específicamente para hoy, por lo que no se toman como vigentes.
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 23%* |
+| Banco CMF S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Crédito Regional Compañía Financiera S.A. | 23%* |
+| Reba Compañía Financiera S.A. | 23%* |
+| Banco Voii S.A. | 22,75%* |
+| Banco Mariva | 22,5%* |
+| Banco Meridian | 22,5%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco Macro | 19,5%* |
+| BBVA | 19%* |
+| Banco Comafi | 19%* |
+| Banco Nación | 18,75%* |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1%* |
+| Banco Ciudad | 18%* |
+| Banco Galicia | 17,25%* |
+| Banco Santander | 16,5%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente banco por banco en las búsquedas de hoy (domingo, sin relevamiento diario nuevo); valor arrastrado de la lectura anterior. El techo de mercado (23%) sí queda confirmado por una búsqueda que reporta explícitamente el rango vigente 16,5%-23,0% TNA para hoy, sin evidencia de ninguna entidad por encima de ese máximo.
+
+**TNA máxima del día:** 23% — grupo líder consistente con la lectura anterior (Banco BICA S.A., Banco CMF S.A., Banco del Sol, Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.).
+
+**Comparación con lectura anterior (2026-09-26, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23% vs. 23%). No hubo incremento, por lo que no se emite aviso.
