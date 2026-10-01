@@ -1684,3 +1684,45 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23% — grupo líder consistente con la lectura anterior (Banco BICA S.A., Banco CMF S.A., Banco del Sol, Banco Voii S.A., Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.).
 
 **Comparación con lectura anterior (2026-09-29, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23% vs. 23%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-10-01 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar/plazos-fijos-online bloqueado hoy por el proxy de egress de este entorno (confirmado con WebFetch), igual que eleconomista.com.ar, iprofesional.com, tuplazofijo.com.ar y dolarito.ar al intentar acceso directo. Se usó WebSearch con dos búsquedas independientes fechadas hoy (jueves 1 de octubre de 2026): una cita a El Economista y otra a iProfesional, ambas referenciando explícitamente el comparador del BCRA. Las dos coinciden en el grupo líder de 23% y en el rango de mercado (16%-23%). Una tercera búsqueda sobre "Ualá Bank" mostró cifras muy dispersas e inconsistentes entre comparadores (24,94%, 24,73%, 19% y 21% TNA según la fuente) sin que ninguna cite explícitamente el comparador oficial del BCRA fechado hoy; siguiendo el mismo criterio de lecturas anteriores (no tomar como vigente un dato no confirmado por una fuente de hoy que cite al BCRA), no se incorpora la cifra de 24,94% de Ualá Bank como tasa de plazo fijo confirmada.
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco del Sol | 23% |
+| Banco Voii S.A. | 23% |
+| Banco Meridian (no clientes) | 23% |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Meridian (clientes) | 22,5% |
+| Banco Mariva | 22,5% |
+| Banco de Comercio | 21,5% |
+| Bibank S.A. | 21,5%* |
+| Banco Provincia (no clientes) | 22% |
+| Banco Provincia (clientes) | 21% |
+| Banco Macro | 21% |
+| Banco de la Provincia de Córdoba | 20,75% |
+| Ualá | 21% |
+| BBVA | 19%* |
+| Banco Comafi | 19%* |
+| Banco Nación | 18,75% |
+| Banco Credicoop | 18,5%* |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| ICBC | 18,1%* |
+| Banco Galicia | 17,25% |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16,5%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-09-30). Nota: Banco Macro pasó de 19,5% (lectura anterior) a 21% según la fuente de hoy; Banco de la Provincia de Córdoba y Ualá (plazo fijo, no cuenta remunerada) son entidades nuevas en esta lectura.
+
+**TNA máxima del día:** 23% — siete entidades empatadas en el techo de mercado: Banco BICA S.A., Banco CMF S.A., Banco del Sol, Banco Voii S.A., Banco Meridian (no clientes), Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.
+
+**Comparación con lectura anterior (2026-09-30, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23% vs. 23%). No hubo incremento, por lo que no se emite aviso.
