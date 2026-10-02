@@ -1726,3 +1726,46 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23% — siete entidades empatadas en el techo de mercado: Banco BICA S.A., Banco CMF S.A., Banco del Sol, Banco Voii S.A., Banco Meridian (no clientes), Crédito Regional Compañía Financiera S.A. y Reba Compañía Financiera S.A.
 
 **Comparación con lectura anterior (2026-09-30, máx. 23%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23% vs. 23%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-10-02 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar/plazos-fijos-online bloqueado hoy por el proxy de egress de este entorno (confirmado con WebFetch), igual que iprofesional.com y mdzol.com al intentar acceso directo. Se usó WebSearch con múltiples búsquedas independientes fechadas hoy (viernes 2 de octubre de 2026), incluyendo una nota de MDZ Online (URL con fecha 2026/10/2) y una de Aire de Santa Fe, ambas citando explícitamente el comparador de plazos fijos online del BCRA. Las dos coinciden en que Banco de Comercio pasó a liderar la tabla con 23,5% TNA, por encima del grupo de 23% que lideraba ayer.
+
+| Banco | TNA |
+|---|---|
+| Banco de Comercio | 23,5% |
+| Banco BICA S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco del Sol | 23% |
+| Banco Voii S.A. | 23% |
+| Banco Meridian (no clientes) | 23% |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Mariva (clientes) | 23% |
+| Banco Mariva (no clientes) | 22,5% |
+| Banco Meridian (clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22% |
+| Bibank S.A. | 21,5%* |
+| Banco Provincia (clientes) | 21% |
+| Ualá | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5% |
+| BBVA | 19% |
+| Banco Comafi | 19%* |
+| Banco Nación | 18,75% |
+| Banco Credicoop | 18,5% |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| Banco Galicia | 18,25% |
+| ICBC | 18,1% |
+| Banco Ciudad | 17% |
+| Banco Santander | 16,5% |
+| Banco Patagonia | 16% |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-10-01). Nota: Banco Galicia pasó de 17,25% a 18,25% y Banco Macro de 21% a 19,5% según las fuentes de hoy (puede reflejar imprecisión de los medios relevados más que un movimiento real; no afecta la TNA máxima del día).
+
+**TNA máxima del día:** 23,5% — Banco de Comercio, por encima del grupo de siete entidades que ayer compartía el techo con 23%.
+
+**Comparación con lectura anterior (2026-10-01, máx. 23%):** 🔺 INCREMENTO. La TNA máxima subió de 23% a 23,5%. El banco con la mejor tasa hoy es **Banco de Comercio, con 23,5% TNA**.
