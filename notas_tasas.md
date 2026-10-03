@@ -1769,3 +1769,46 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23,5% — Banco de Comercio, por encima del grupo de siete entidades que ayer compartía el techo con 23%.
 
 **Comparación con lectura anterior (2026-10-01, máx. 23%):** 🔺 INCREMENTO. La TNA máxima subió de 23% a 23,5%. El banco con la mejor tasa hoy es **Banco de Comercio, con 23,5% TNA**.
+
+---
+
+## Lectura: 2026-10-03 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar bloqueado nuevamente por el proxy de egress de este entorno (confirmado con WebFetch), igual que dolarito.ar, ambito.com, airedesantafe.com.ar y lanacion.com.ar al intentar acceso directo. Se usó WebSearch con múltiples búsquedas independientes fechadas hoy (viernes 3 de octubre de 2026). Dos búsquedas detalladas y específicas de la fecha coincidieron de forma independiente en la tabla de los 10 bancos con mayor volumen de depósitos, incluyendo una suba de Banco Nación. Para las entidades financieras más chicas (techo del mercado), las búsquedas de hoy repitieron el mismo grupo de siete entidades al 23% que ayer, pero no lograron confirmar de forma fiable el valor de Banco de Comercio (un resultado sugirió "Banco Formosa 23,50%", claramente inconsistente con el resto de las fuentes que ubican a Banco de Formosa en ~18,5%, por lo que se descartó como error del resumen de búsqueda); se arrastra el valor de Banco de Comercio de la lectura anterior.
+
+| Banco | TNA |
+|---|---|
+| Banco de Comercio | 23,5%* |
+| Banco BICA S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco del Sol | 23% |
+| Banco Voii S.A. | 23% |
+| Banco Meridian (no clientes) | 23% |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Mariva (clientes) | 23%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Meridian (clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22% |
+| Bibank S.A. | 21,5%* |
+| Banco Provincia (clientes) | 21% |
+| Ualá | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5% |
+| Banco Nación | 19,25% |
+| BBVA | 19% |
+| Banco Comafi | 19%* |
+| Banco Credicoop | 18,5% |
+| Banco de Formosa | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| Banco Galicia | 18,25% |
+| ICBC | 18,1% |
+| Banco Ciudad | 17% |
+| Banco Santander | 16,5% |
+| Banco Patagonia | 16% |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-10-02). Nota: Banco Nación subió de 18,75% (lectura anterior) a 19,25% según dos fuentes independientes que detallan explícitamente la fecha de hoy; no afecta la TNA máxima del día.
+
+**TNA máxima del día:** 23,5% — Banco de Comercio (valor arrastrado, no reconfirmado hoy de forma independiente).
+
+**Comparación con lectura anterior (2026-10-02, máx. 23,5%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23,5% vs. 23,5%). No hubo incremento, por lo que no se emite aviso.
