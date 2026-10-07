@@ -1941,3 +1941,46 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23,5% — Banco de Comercio.
 
 **Comparación con lectura anterior (2026-10-05, máx. 23,5%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23,5% vs. 23,5%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-10-07 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar, calcularsueldo.com.ar, eleconomista.com.ar y mdzol.com bloqueado nuevamente por el proxy de egress de este entorno (confirmado con WebFetch en los cuatro casos). Se usó WebSearch con múltiples búsquedas independientes. Varias fuentes fechadas explícitamente el 6 y el 7 de octubre de 2026 (entre ellas un artículo de MDZ Online del 6/10 "Sube el plazo fijo..." y un resumen que cita al comparador oficial del BCRA "actualizado a este 6 de octubre") confirman que Banco de Comercio sigue liderando el listado con 23,5% TNA, seguido por el grupo de siete entidades (Bica, CMF, del Sol, Meridian, Voii, Crédito Regional y Reba) al 23%. Una búsqueda aislada mencionó a Banco de Comercio en 21,5%, pero corresponde a una nota de rendimiento (ganancia en pesos) desactualizada o de otro recorte de fechas dentro de octubre, inconsistente con el resto de fuentes de hoy y de los días previos, por lo que se descarta. Se reconfirmaron también, con fuentes de octubre de 2026, los valores de Banco Provincia, Banco Macro, BBVA, Banco Galicia, Banco Santander y Banco Patagonia, todos sin cambios respecto a la lectura anterior. El resto de las entidades no pudo reconfirmarse de forma independiente hoy; se arrastran los valores de la lectura anterior (2026-10-06).
+
+| Banco | TNA |
+|---|---|
+| Banco de Comercio | 23,5% |
+| Banco BICA S.A. | 23% |
+| Banco CMF S.A. | 23% |
+| Banco del Sol | 23% |
+| Banco Voii S.A. | 23% |
+| Banco Meridian (no clientes) | 23%* |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Reba Compañía Financiera S.A. | 23% |
+| Banco Mariva (clientes) | 23%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Meridian (clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22% |
+| Bibank S.A. | 21,5%* |
+| Banco Provincia (clientes) | 21% |
+| Ualá | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5% |
+| Banco Nación | 19,25%* |
+| BBVA | 19% |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Credicoop | 18,5%* |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| Banco Galicia | 18,25% |
+| ICBC | 18,1%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16,5% |
+| Banco Patagonia | 16% |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-10-06).
+
+**TNA máxima del día:** 23,5% — Banco de Comercio.
+
+**Comparación con lectura anterior (2026-10-06, máx. 23,5%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23,5% vs. 23,5%). No hubo incremento, por lo que no se emite aviso.
