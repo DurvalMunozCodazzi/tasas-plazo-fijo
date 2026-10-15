@@ -2288,3 +2288,45 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 23,5% — Banco de Comercio.
 
 **Comparación con lectura anterior (2026-10-13, máx. 23,5%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (23,5% vs. 23,5%). No hubo incremento, por lo que no se emite aviso.
+
+## Lectura: 2026-10-15 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar bloqueado nuevamente por el proxy de egress de este entorno (confirmado con WebFetch, `getaddrinfo ENOTFOUND`; también bloqueado el acceso directo a calcularsueldo.com.ar, dolarhoy.com y mdzol.com). Se usó WebSearch. La nota de MDZ "Plazo fijo: banco por banco, las tasas del jueves 15 de octubre" (publicada hoy) ubica a **Reba Compañía Financiera S.A. en el primer puesto con 24% TNA**, por encima de Banco CMF y Banco Voii, que subieron a 23,5%. El resto de bancos chicos (BICA, del Sol, Meridian, Crédito Regional) se mantiene en 23% según la misma nota. No se encontró una cifra de hoy para Banco de Comercio ni Banco Mariva, por lo que se arrastran sus valores de la lectura anterior.
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24% |
+| Banco CMF S.A. | 23,5% |
+| Banco Voii S.A. | 23,5% |
+| Banco de Comercio | 23,5%* |
+| Banco BICA S.A. | 23% |
+| Banco del Sol | 23% |
+| Crédito Regional Compañía Financiera S.A. | 23% |
+| Banco Meridian (no clientes) | 23% |
+| Banco Mariva (clientes) | 23%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Meridian (clientes) | 22,5%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Provincia (clientes) | 21% |
+| Ualá | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5% |
+| Banco Nación | 19,25% |
+| BBVA | 19% |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Credicoop | 18,5% |
+| Banco Hipotecario (no clientes) | 18,5%* |
+| Banco Galicia | 18,25% |
+| ICBC | 18,1% |
+| Banco Ciudad | 17% |
+| Banco Santander | 16,5%* |
+| Banco Patagonia | 16% |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado de la lectura anterior (2026-10-14).
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A.
+
+**Comparación con lectura anterior (2026-10-14, máx. 23,5% — Banco de Comercio):** 🔺 INCREMENTO. La TNA máxima subió de 23,5% a 24%. El banco con la mejor tasa hoy es **Reba Compañía Financiera S.A., con 24% TNA**.
