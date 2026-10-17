@@ -2372,3 +2372,45 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A.
 
 **Comparación con lectura anterior (2026-10-15, máx. 24% — Reba Compañía Financiera S.A.):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+## Lectura: 2026-10-17 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar bloqueado nuevamente por el proxy de egress de este entorno (confirmado con WebFetch, `getaddrinfo ENOTFOUND`; también bloqueado el acceso directo a calcularsueldo.com.ar). Se usó WebSearch con múltiples búsquedas independientes (incluyendo búsqueda "extended"). No se encontró ninguna nota fechada específicamente el 17 de octubre de 2026 con tabla banco por banco; las fuentes más recientes disponibles siguen siendo la nota de MDZ del 15/10 (Reba Compañía Financiera S.A. en 24% TNA, por encima de CMF y Voii en 23,5%) y el comparador del BCRA citado por Rankia para "octubre 2026" (siete entidades —Bica, CMF, del Sol, Meridian, Voii, Crédito Regional y Reba— empatadas en 23%, cifra que difiere de la de MDZ). Ninguna fuente consultada hoy menciona una tasa superior al 24% ya registrado. Ante la falta de datos nuevos verificables para hoy, se arrastra íntegramente el listado de la lectura anterior (2026-10-16).
+
+| Banco | TNA |
+|---|---|
+| Reba Compañía Financiera S.A. | 24%* |
+| Banco CMF S.A. | 23,5%* |
+| Banco Voii S.A. | 23,5%* |
+| Banco de Comercio | 23,5%* |
+| Banco BICA S.A. | 23%* |
+| Banco del Sol | 23%* |
+| Crédito Regional Compañía Financiera S.A. | 23%* |
+| Banco Meridian (no clientes) | 23%* |
+| Banco Mariva (clientes) | 23%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Meridian (clientes) | 22,5%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Hipotecario (no clientes) | 19,5%* |
+| Banco Macro | 18,25%* |
+| Banco Nación | 19,25%* |
+| BBVA | 19%* |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Credicoop | 18,5%* |
+| Banco Galicia | 18,25%* |
+| ICBC | 18,1%* |
+| Banco Ciudad | 17%* |
+| Banco Santander | 16,5%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en las búsquedas de hoy; valor arrastrado íntegramente de la lectura anterior (2026-10-16), por no haberse encontrado ninguna fuente fechada hoy.
+
+**TNA máxima del día:** 24% — Reba Compañía Financiera S.A.
+
+**Comparación con lectura anterior (2026-10-16, máx. 24% — Reba Compañía Financiera S.A.):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
