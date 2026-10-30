@@ -2927,3 +2927,47 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Reba Compañía Financiera S.A. (empatada con Banco CMF S.A., Banco BICA S.A. y Crédito Regional Compañía Financiera S.A.).
 
 **Comparación con lectura anterior (2026-10-28, máx. 24% — Reba Compañía Financiera S.A.):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-10-30 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar, mdzol.com, indicadores.ar y dolarhoy.com bloqueado nuevamente por el proxy de egress (`getaddrinfo ENOTFOUND`). Se usó WebSearch (estándar y extendida). Se encontró una nota fechada específicamente hoy, viernes 30 de octubre de 2026 (MDZ: "Plazo fijo: con qué tasas cierran octubre los bancos y cuál paga más este viernes 30"), con tabla parcial banco por banco; el resto de los valores se completa arrastrando la lectura anterior (2026-10-29).
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24% |
+| Banco CMF S.A. | 24% |
+| Reba Compañía Financiera S.A. | 24%* |
+| Crédito Regional Compañía Financiera S.A. | 24%* |
+| Banco Meridian | 23,75% |
+| Banco Mariva (clientes) | 23,5% |
+| Banco de Comercio | 22,5% |
+| Banco del Sol | 23% |
+| Banco Voii S.A. | 23% |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (no clientes) | 21% |
+| Banco Provincia (clientes) | 21%* |
+| Banco Macro | 19,5% |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25% |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| BBVA | 17% |
+| Banco Credicoop | 18,5% |
+| Banco Galicia | 18,25% |
+| ICBC | 17,9% |
+| Banco Ciudad | 17% |
+| Banco Santander | 17% |
+| Banco Patagonia | 16% |
+
+\* No confirmado de forma independiente en la nota de hoy; valor arrastrado de la lectura anterior (2026-10-29). La nota de MDZ del 30/10 confirma de forma consistente el liderazgo de Banco BICA S.A. y Banco CMF S.A. en 24% TNA, pero no menciona a Reba Compañía Financiera S.A. ni a Crédito Regional Compañía Financiera S.A. (ambos en 24%* en la lectura anterior), por lo que se arrastran sin confirmar. Se confirmaron además Banco Meridian (23,75%, sin cambios), Banco Mariva clientes (23,5%, sube desde 23%), Banco del Sol y Banco Voii (23%, sin cambios), Banco Provincia (21%, sin cambios), Banco Macro (19,5%, baja desde 21%), Banco Nación (19,25%, sin cambios), Banco Credicoop (18,5%, sin cambios), Banco Galicia (18,25%, sin cambios), Banco Ciudad y Santander (17%, sin cambios) y Banco Patagonia (16%, sin cambios). Nota: Banco de Comercio bajó de 23,5% a 22,5% según la nota de hoy. Hay discrepancia entre fuentes para BBVA (17% según MDZ del 30/10 vs. 19% según otra nota de la misma búsqueda) e ICBC (17,9% según MDZ vs. 18,1% de la lectura anterior); se adopta el valor de la nota fechada específicamente hoy (BBVA 17%, ICBC 17,9%) siguiendo el criterio de priorizar la fuente más reciente y específica.
+
+**TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. (empate, confirmados por fuente de hoy), con Reba Compañía Financiera S.A. y Crédito Regional Compañía Financiera S.A. también citados en 24% sin confirmar hoy.
+
+**Comparación con lectura anterior (2026-10-29, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima se mantiene igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
