@@ -3059,3 +3059,47 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. (empatados con Reba Compañía Financiera S.A. y Crédito Regional Compañía Financiera S.A., todos sin confirmar hoy de forma individual, aunque una nota de hoy confirma de forma genérica que "algunas entidades llegan hasta 24% TNA").
 
 **Comparación con lectura anterior (2026-10-31, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-11-02 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar bloqueado nuevamente por el proxy de egress (`getaddrinfo ENOTFOUND`), igual que a eldestapeweb.com, infobae.com, canal26.com e indicadores.ar al intentar leer sus notas completas. Se usó WebSearch (estándar y extendida). Se hallaron notas fechadas hoy, 2 de noviembre de 2026: El Destape (bancos grandes), Canal26 (tasas más altas del mercado) y el comparador indicadores.ar, cuyo resultado de búsqueda muestra en vivo "Mejor TNA: 24.0% (BANCO CMF S.A.)". Los valores no mencionados en las notas de hoy se arrastran de la lectura anterior (2026-11-01).
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24% |
+| Banco CMF S.A. | 24% |
+| Reba Compañía Financiera S.A. | 24% |
+| Crédito Regional Compañía Financiera S.A. | 24% |
+| Banco Meridian | 23,75% |
+| Banco Mariva (clientes) | 23,5% |
+| Banco del Sol | 23% |
+| Banco Voii S.A. | 23% |
+| Banco de Comercio | 22,5%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (no clientes) | 21% |
+| Banco Provincia (clientes) | 21% |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5% |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25% |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Credicoop | 18,5%* |
+| Banco Galicia | 18,25% |
+| ICBC | 17,9% |
+| Banco Santander | 17,5% |
+| BBVA | 17% |
+| Banco Ciudad | 17% |
+| Banco Patagonia | 16% |
+
+\* No confirmado de forma independiente en búsquedas fechadas hoy; valor arrastrado íntegramente de la lectura anterior (2026-11-01), por no haberse encontrado ninguna fuente fechada hoy que los mencione. El resto de los valores de la tabla sí fue confirmado hoy por El Destape (bancos grandes) o Canal26/indicadores.ar (tasas más altas). Nota: Banco Santander subió de 17% a 17,5% según El Destape de hoy.
+
+**TNA máxima del día:** 24% — Banco CMF S.A. (confirmado en vivo por el comparador indicadores.ar), empatado con Banco BICA S.A., Reba Compañía Financiera S.A. y Crédito Regional Compañía Financiera S.A. según Canal26.
+
+**Comparación con lectura anterior (2026-11-01, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
