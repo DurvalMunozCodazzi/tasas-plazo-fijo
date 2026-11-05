@@ -3192,3 +3192,47 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (confirmado hoy por Infobae, consistente con días previos).
 
 **Comparación con lectura anterior (2026-11-03, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-11-05 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar bloqueado nuevamente por el proxy de egress (`getaddrinfo ENOTFOUND`), igual que a eleconomista.com.ar al intentar leer su nota completa. Se usó WebSearch (estándar y extendida). No se halló ninguna nota fechada específicamente hoy, 5 de noviembre de 2026, con una tabla completa de tasas (varias notas con "5 de noviembre" en el título resultaron ser de años anteriores). La fuente más reciente confirmada es La Nación del miércoles 4/11/2026 y MDZ Online del 4/11/2026, consistentes entre sí y con calcularsueldo.com.ar (datos al 2/11/2026). Se arrastra la lectura del 2026-11-04 en su totalidad, por no haberse encontrado ningún cambio reportado para hoy.
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24% |
+| Banco CMF S.A. | 24% |
+| Reba Compañía Financiera S.A. | 24% |
+| Crédito Regional Compañía Financiera S.A. | 24% |
+| Banco Meridian | 23,75%* |
+| Banco Mariva (clientes) | 23,5%* |
+| Banco del Sol | 23%* |
+| Banco Voii S.A. | 23%* |
+| Banco de Comercio | 22,5%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22% |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (clientes) | 21% |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5% |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25% |
+| Banco Credicoop | 18,5%* |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Galicia | 18,25%* |
+| ICBC | 17,9%* |
+| Banco Santander | 17,5%* |
+| BBVA | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente en búsquedas fechadas hoy; valor arrastrado íntegramente de la lectura anterior (2026-11-04), por no haberse encontrado ninguna fuente fechada hoy que los mencione. Sí se confirmó indirectamente hoy, vía búsqueda extendida que cita de nuevo la tabla de bancos grandes del 4/11 (La Nación/Examedia): Banco Nación (19,25%), Banco Provincia clientes (21%) y no clientes (22%), Banco Macro (19,5%, con una fuente alternativa inconsistente que lo ubica en 21%), Banco BICA/CMF/Reba/Crédito Regional (24%) y Banco Meridian (23,75%).
+
+**TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (sin fuente fechada hoy que lo contradiga; dato arrastrado de la lectura del 4/11, confirmada por Infobae/La Nación).
+
+**Comparación con lectura anterior (2026-11-04, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
