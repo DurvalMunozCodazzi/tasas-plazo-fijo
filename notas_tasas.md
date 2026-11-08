@@ -3324,3 +3324,47 @@ Registro histórico de TNA (Tasa Nominal Anual) por banco, para plazos fijos onl
 **TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (dato arrastrado de la lectura del 6/11, sin fuente de hoy que lo contradiga).
 
 **Comparación con lectura anterior (2026-11-06, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+---
+
+## Lectura: 2026-11-08 (UTC)
+
+**Fuente:** acceso directo a bcra.gob.ar bloqueado nuevamente por el proxy de egress (`getaddrinfo ENOTFOUND`), igual que a dolarhoy.com. Hoy es domingo 8/11/2026, los bancos están cerrados y los medios que publican la tabla diaria del comparador BCRA no emiten nota los fines de semana; además, según una búsqueda extendida, el lunes 9/11 es feriado nacional (visita papal) y el martes 10/11 es feriado bancario dispuesto por el BCRA (Comunicación A 8487/2026), por lo que no se espera actualización del comparador hasta el miércoles 11/11. No se encontró ninguna fuente fechada específicamente hoy que modifique la tabla. Se mantiene la tabla de la lectura anterior (2026-11-07) sin modificaciones.
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24%* |
+| Banco CMF S.A. | 24%* |
+| Reba Compañía Financiera S.A. | 24%* |
+| Crédito Regional Compañía Financiera S.A. | 24%* |
+| Banco Meridian | 23,75%* |
+| Banco Mariva (clientes) | 23,5%* |
+| Banco del Sol | 23%* |
+| Banco Voii S.A. | 23%* |
+| Banco de Comercio | 22,5%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5%* |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25%* |
+| Banco Credicoop | 18,5%* |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Galicia | 18,25%* |
+| ICBC | 17,9%* |
+| Banco Santander | 17,5%* |
+| BBVA | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado de forma independiente con una fuente fechada hoy (domingo, feriado bancario en puerta); valor arrastrado íntegramente de la lectura anterior (2026-11-07), al no haberse encontrado ningún medio que publicara el comparador con fecha de hoy.
+
+**TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Reba Compañía Financiera S.A. / Crédito Regional Compañía Financiera S.A. (dato arrastrado de la lectura del 7/11, sin fuente de hoy que lo contradiga).
+
+**Comparación con lectura anterior (2026-11-07, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
