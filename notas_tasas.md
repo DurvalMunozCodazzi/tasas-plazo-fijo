@@ -3768,3 +3768,47 @@ A diferencia de lecturas anteriores, hoy sí se encontró una fuente con fecha p
 **TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Banco de Comercio / Reba Compañía Financiera S.A. / Crédito Regional (no clientes). Banco de Comercio pasó de 22,5% a 24% según la fuente de hoy, pero el **máximo del mercado sigue siendo 24%**, igual que en la lectura anterior.
 
 **Comparación con lectura anterior (2026-11-16, máx. 24%):** ➡️ SIN CAMBIOS en la TNA máxima (24% vs. 24%). No hubo incremento del máximo, por lo que no se emite aviso.
+
+## Lectura: 2026-11-18 (UTC)
+
+**Fuente:** acceso directo a `www.bcra.gob.ar` bloqueado por el proxy de egress de la sesión (`getaddrinfo ENOTFOUND`, mismo motivo que en lecturas anteriores). Se intentó también abrir directamente notas de medios (eldestapeweb.com, ambito.com), bloqueadas por el mismo motivo. Se usó la herramienta de búsqueda web (varias consultas, incluida una extendida) para ubicar coberturas con fecha propia de hoy o de esta semana.
+
+No se encontró ninguna nota con fecha explícita del 18/11/2026 (miércoles) que relevara la tabla completa. La cobertura más cercana es un artículo de El Destape sobre la "tercera semana de noviembre 2026" (publicado 16/11/2026) que cita un relevamiento del BCRA del 13/11, y una nota de Bardeo.news con datos al 12/11 que ubica a Banco de Comercio en 24,25% (sin confirmación independiente ni fecha de hoy). Dado que no hay fuente propia de hoy que contradiga o supere el máximo ya registrado ayer (24%), se mantiene íntegramente la tabla de la lectura anterior (2026-11-17).
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24%* |
+| Banco CMF S.A. | 24%* |
+| Banco de Comercio | 24%* |
+| Reba Compañía Financiera S.A. | 24%* |
+| Crédito Regional Compañía Financiera S.A. | 24% (no clientes) / 23,75% (clientes)* |
+| Banco Meridian | 23,75%* |
+| Banco Mariva (clientes) | 23,5%* |
+| Banco del Sol | 23%* |
+| Banco Voii S.A. | 23%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5%* |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25%* |
+| Banco Credicoop | 18,5%* |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Galicia | 18,25%* |
+| ICBC | 17,9%* |
+| Banco Santander | 17,5%* |
+| BBVA | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado con una fuente fechada hoy; valor arrastrado íntegramente de la lectura anterior (2026-11-17), al no haberse encontrado ningún medio que publicara el comparador con fecha de hoy ni una corroboración confiable de un cambio.
+
+**TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Banco de Comercio / Reba Compañía Financiera S.A. / Crédito Regional (no clientes) (dato arrastrado de la lectura del 17/11, sin fuente de hoy que lo contradiga ni confirme).
+
+**Comparación con lectura anterior (2026-11-17, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
