@@ -3812,3 +3812,49 @@ No se encontró ninguna nota con fecha explícita del 18/11/2026 (miércoles) qu
 **TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Banco de Comercio / Reba Compañía Financiera S.A. / Crédito Regional (no clientes) (dato arrastrado de la lectura del 17/11, sin fuente de hoy que lo contradiga ni confirme).
 
 **Comparación con lectura anterior (2026-11-17, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+## Lectura: 2026-11-19 (UTC)
+
+**Fuente:** acceso directo a `www.bcra.gob.ar` bloqueado por el proxy de egress de la sesión (`getaddrinfo ENOTFOUND`, mismo motivo que en lecturas anteriores). Se intentó también abrir directamente notas de medios (mdzol.com, infobae.com, dolarhoy.com), bloqueadas por el mismo motivo. Se usó la herramienta de búsqueda web (varias consultas, incluida una extendida).
+
+Esta vez sí se encontraron dos notas con fecha propia de hoy/ayer que citan explícitamente el comparador del BCRA: una de MDZ fechada 19/11/2026 ("Plazo fijo: cuánto ganás si depositás $5 millones a 30 días") y una de Infobae fechada 18/11/2026 ("Plazo fijo: cuánto pagan los bancos por depósitos de $1 millón a 30 días"). Ambas calculan la ganancia máxima usando una TNA de **24%** (Infobae: $19.726 de interés sobre $1.000.000 a 30 días = 1.000.000×0,24×30/365; MDZ: $98.630 sobre $5.000.000, misma fórmula), y la nota de MDZ aclara que "los bancos más grandes suelen estar por debajo del 20%". Infobae agrega que el promedio BCRA de depósitos a 30 días de personas humanas fue 20,03% al 16/11/2026. Ninguna de las dos notas publicó la tabla completa banco por banco en el fragmento disponible, por lo que el detalle por banco se mantiene arrastrado de la lectura anterior (2026-11-18), salvo el grupo líder a 24% que ambas confirman.
+
+Una búsqueda adicional sobre valores por encima de 24% no encontró ninguna fuente de noviembre de 2026 que confirme una TNA online superior a 24% con fecha de hoy (la cifra de 24,25% para Banco de Comercio, vista en lecturas previas, sigue sin una fuente propia fechada hoy que la corrobore).
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24% |
+| Banco CMF S.A. | 24% |
+| Banco de Comercio | 24%* |
+| Reba Compañía Financiera S.A. | 24% |
+| Crédito Regional Compañía Financiera S.A. | 24% (no clientes) / 23,75% (clientes)* |
+| Banco Meridian | 23,75%* |
+| Banco Mariva (clientes) | 23,5%* |
+| Banco del Sol | 23%* |
+| Banco Voii S.A. | 23%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5%* |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25%* |
+| Banco Credicoop | 18,5%* |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Galicia | 18,25%* |
+| ICBC | 17,9%* |
+| Banco Santander | 17,5%* |
+| BBVA | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado individualmente por un fragmento con fecha propia de hoy; valor arrastrado de la lectura anterior (2026-11-18), sin indicio de cambio. Los valores sin asterisco (BICA, CMF, Reba) están confirmados por las notas de hoy/ayer (MDZ e Infobae) como parte del grupo con la TNA máxima de 24%.
+
+**TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Reba Compañía Financiera S.A. (confirmado por fuentes fechadas hoy/ayer), junto con Banco de Comercio y Crédito Regional (no clientes) (arrastrados, sin fuente propia de hoy que los contradiga).
+
+**Comparación con lectura anterior (2026-11-18, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
