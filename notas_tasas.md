@@ -4122,3 +4122,48 @@ No se encontró ningún artículo con fecha explícita de hoy (miércoles 25/11/
 **TNA máxima del día:** 24% — Banco BICA S.A. / Banco CMF S.A. / Banco de Comercio / Reba Compañía Financiera S.A. / Crédito Regional (no clientes) (arrastrado de la lectura anterior, sin fuente de hoy que lo contradiga ni lo confirme individualmente).
 
 **Comparación con lectura anterior (2026-11-24, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
+
+## Lectura: 2026-11-26 (UTC)
+
+**Fuente:** acceso directo a `www.bcra.gob.ar` bloqueado por la política de red de la sesión (`getaddrinfo ENOTFOUND`, mismo motivo que en lecturas anteriores). WebFetch directo también falló por el mismo motivo contra dolarhoy.com, derechadiario.com.ar, www.cronista.com, www.mdzol.com y www.rionegro.com.ar. Se recurrió a WebSearch (múltiples consultas) para ubicar coberturas con fecha propia de hoy o de los últimos días.
+
+No se encontró una tabla bancaria completa con fecha explícita de hoy (jueves 26/11/2026). La fuente más cercana y confiable es un artículo de elargentinodiario.com.ar fechado ayer (25/11/2026), que —citando el relevamiento oficial— indica que **seis entidades comparten la TNA máxima de plazo fijo a 30 días, en 24%: Reba Compañía Financiera S.A., Cocos, Banco BICA S.A., Banco CMF S.A., Banco de Comercio y Banco Meridian**. Esto coincide con otra nota de cholilaonline.ar de los mismos días, que ubica a Banco Meridian en 24% (antes figuraba en 23,75%) y agrega a "Cocos" al grupo top, sin que se haya encontrado una fuente que mencione explícitamente a Crédito Regional Compañía Financiera S.A. en esta última ronda (se mantiene su valor previo por no tener indicio de baja o suba). No se encontró ninguna fuente con fecha de esta semana que reporte un máximo de plazo fijo superior a 24% (nota: se detectó una tasa de "hasta 25% TNA" pero corresponde a cuentas remuneradas/billeteras virtuales —ej. Fiwind—, un producto distinto del plazo fijo bancario que cubre este registro, y se descarta por no ser comparable).
+
+| Banco | TNA |
+|---|---|
+| Banco BICA S.A. | 24%* |
+| Banco CMF S.A. | 24%* |
+| Banco de Comercio | 24%* |
+| Reba Compañía Financiera S.A. | 24%* |
+| Cocos | 24% (confirmado 25/11) |
+| Banco Meridian | 24% (confirmado 25/11, antes 23,75%) |
+| Crédito Regional Compañía Financiera S.A. | 24% (no clientes) / 23,75% (clientes)* |
+| Banco Mariva (clientes) | 23,5%* |
+| Banco del Sol | 23%* |
+| Banco Voii S.A. | 23%* |
+| Bibank S.A. | 22,5%* |
+| Banco Mariva (no clientes) | 22,5%* |
+| Banco Provincia (no clientes) | 22%* |
+| Banco Hipotecario (no clientes) | 22%* |
+| Ualá | 22%* |
+| Banco Columbia | 22%* |
+| Banco Provincia (clientes) | 21%* |
+| Banco de la Provincia de Córdoba | 20,75%* |
+| Banco Macro | 19,5%* |
+| Banco Hipotecario (clientes) | 19,5%* |
+| Banco Nación | 19,25%* |
+| Banco Credicoop | 18,5%* |
+| Banco Comafi | 19%* |
+| Banco de Formosa | 19%* |
+| Banco Galicia | 18,25%* |
+| ICBC | 17,9%* |
+| Banco Santander | 17,5%* |
+| BBVA | 17%* |
+| Banco Ciudad | 17%* |
+| Banco Patagonia | 16%* |
+
+\* No confirmado individualmente por un fragmento con fecha propia de hoy; valor arrastrado de la lectura anterior (2026-11-25), sin indicio de cambio.
+
+**TNA máxima del día:** 24% — compartida por Banco BICA S.A., Banco CMF S.A., Banco de Comercio, Reba Compañía Financiera S.A., Cocos y Banco Meridian (confirmado por fuente del 25/11/2026, sin indicio de cambio hacia hoy).
+
+**Comparación con lectura anterior (2026-11-25, máx. 24%):** ➡️ SIN CAMBIOS. La TNA máxima del día es igual a la de la lectura anterior (24% vs. 24%). No hubo incremento, por lo que no se emite aviso.
